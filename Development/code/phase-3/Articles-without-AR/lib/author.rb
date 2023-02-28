@@ -1,3 +1,4 @@
+require 'pry'
 class Author
     attr_reader :name
 
@@ -24,3 +25,5 @@ class Author
       magazines.map { |magazine| magazine.category }.uniq
     end
   end
+
+  binding.pry
