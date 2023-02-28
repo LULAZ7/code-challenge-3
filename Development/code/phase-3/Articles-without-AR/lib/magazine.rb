@@ -10,4 +10,8 @@ class Magazine
         @articles = []
         @@all << self
     end
+    
+    def self.all
+        @@all.dup.freeze
+    end
 end
