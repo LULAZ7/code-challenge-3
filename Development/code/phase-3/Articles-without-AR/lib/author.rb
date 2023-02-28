@@ -28,4 +28,8 @@ class Author
     end
   end
 
+  # create some authors
+#author1 = Author.new("Sam Wanjiku")
+#author2 = Author.new("John doe")
+
   binding.pry
