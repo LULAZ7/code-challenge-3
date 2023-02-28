@@ -14,4 +14,8 @@ class Magazine
     def self.all
         @@all.dup.freeze
     end
+
+    def add_article(article)
+        @articles << article
+    end
 end
