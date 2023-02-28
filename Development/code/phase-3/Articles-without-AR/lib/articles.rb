@@ -32,4 +32,6 @@ author1.add_article(magazine2, "The Science of Magic")
 author2.add_article(magazine1, "The Art of Horror")
 author2.add_article(magazine1, "The Psychology of Fear")
 
+new1 = Article.new("sam", "vogue", "fashion")
+
 binding.pry
