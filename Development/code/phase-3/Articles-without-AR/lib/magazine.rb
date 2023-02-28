@@ -18,4 +18,8 @@ class Magazine
     def add_article(article)
         @articles << article
     end
+
+    def article_titles
+        @articles.map { |article| article.title}
+    end
 end
