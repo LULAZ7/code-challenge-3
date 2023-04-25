@@ -54,7 +54,7 @@ Deliveroo is a collaborative effort by 7 contributors, who have contributed thei
 * [Luul Bana](https://github.com/LULAZ7)
 * [B.en.ja.h
 ](https://github.com/Benjah7)
-* []
+* [Karim Carl](https://github.com/KarimCarl)
 
 
 ##Feedback
